@@ -1,23 +1,31 @@
+img{
+    width: 120px;
+}
+
+
 h1{
     color: red;
 }
-.h2{
-    background-color: rgb(79, 121, 37);
-    color: white;
+h2{
+ background-color: rgb(26, 156, 26);  
+ color: white;   
 }
 .h2-1{
-    background-color:rgb(79, 121, 37);
-    color: white;
+    
+    
     padding: 50px; 
 }
 .text-1{
     background-color: royalblue;
     color: white;
-    width: 150px;
-    height: 70px;
+    width: 130px;
+    margin-bottom: 120px;    
 }
 .text-2 span{
     color: red;
+}
+.text-3{
+    margin-left: 80px;
 }
 .table{
     font-size: 25px;
